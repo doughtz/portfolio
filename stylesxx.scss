@@ -168,6 +168,7 @@ img {
 .linkWrap {
   position: relative;
   display: inline-block;
+  width: 100%;
 }
 
 .blocker {
@@ -180,5 +181,4 @@ img {
 
 .linkWrap iframe {
   z-index: 2;
-  width: 100%;
 }
