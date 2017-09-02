@@ -127,7 +127,6 @@ img {
 
 .webThumbnail img {
   box-shadow: 2px 2px 2px 2px gray;
-  width: 95%;
 }
 
 .portTitle {
@@ -143,6 +142,19 @@ img {
 
 #iframe_embed_undefined {
   width: 95%;
-  height: 153px;
+  height: 100%;
   box-shadow: 2px 2px 2px 2px gray;
+}
+
+.devIcons {
+  font-size: 80px !important;
+  color: gray !important;
+}
+
+.lightGray {
+  color: gray;
+}
+
+.bottomPadding {
+  margin-bottom: 30px;
 }
